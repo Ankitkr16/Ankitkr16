@@ -1,4 +1,4 @@
-![link](https://github.com/Ankitkr2004/Ankitkr2004/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![link](https://github.com/Ankitkr16/Ankitkr16/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <!-- Works better in HTML sections -->
@@ -7,11 +7,11 @@
 <h3 align="center">A passionate about Data Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkr2004&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkr2004" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkr16&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkr16" /> </p>
 
 - 🌱 I’m currently learning **Backend and Data Science**
 
-- 👨‍💻 Projects available at Vercel: [https://vercel.com/ankitkr2004s-projects](https://vercel.com/ankitkr2004s-projects)
+- 👨‍💻 Projects available at Vercel: [https://vercel.com/ankitkr16s-projects](https://vercel.com/ankitkr16s-projects)
 
 - 📫 How to reach me **ankitkr829301@gmail.com**
 
@@ -82,12 +82,12 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitkr2004&show_icons=true&locale=en&layout=compact" alt="ankitkr2004" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitkr2004&show_icons=true&locale=en&layout=compact" alt="ankitkr16" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitkr2004&show_icons=true&locale=en" alt="ankitkr2004" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitkr2004&show_icons=true&locale=en" alt="ankitkr16" /></p>
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ankitkr2004) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ankitkr16) 
 
 <br/>
 <h3 align="left">GitHub Contributions:</h3> 
