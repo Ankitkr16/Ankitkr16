@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Backend and Data Science**
 
-- 👨‍💻 Projects available at Vercel: [https://vercel.com/ankitkr16s-projects](https://vercel.com/ankitkr16s-projects)
+- 👨‍💻 Projects available at Vercel: [https://vercel.com/ankitkr2004s-projects](https://vercel.com/ankitkr2004s-projects)
 
 - 📫 How to reach me **ankitkr829301@gmail.com**
 
@@ -82,9 +82,9 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitkr2004&show_icons=true&locale=en&layout=compact" alt="ankitkr16" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitkr16&show_icons=true&locale=en&layout=compact" alt="ankitkr16" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitkr2004&show_icons=true&locale=en" alt="ankitkr16" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitkr16&show_icons=true&locale=en" alt="ankitkr16" /></p>
 <br/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ankitkr16) 
@@ -92,5 +92,5 @@
 <br/>
 <h3 align="left">GitHub Contributions:</h3> 
 
-![GitHub Snake dark](https://raw.githubusercontent.com/Ankitkr2004/Ankitkr2004/output/github-snake-dark.svg)
+![GitHub Snake dark](https://raw.githubusercontent.com/Ankitkr16/Ankitkr16/output/github-snake-dark.svg)
 
